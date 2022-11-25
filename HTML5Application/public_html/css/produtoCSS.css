@@ -24,6 +24,33 @@ body {
     border: 1px solid #000;
 }
 
+.main_footer          { 
+	background-color:#b58500; 
+	color:#000000; 
+	font-size:0.880em; 
+}
+.main_footer .content { float:left; width:90%; margin:0 5%; padding: 3em 0; }
+.container { float:left; width:100%; }
+.colfooter { 
+	width:100%; 
+	height:auto; 
+	float:left; 
+	margin-bottom:2em;
+}
+.colfooter ul        { float:left;width:100%;  }
+.colfooter ul li     { padding:0.2em 0em; }
+.colfooter ul li a   { text-decoration:none; color:#000000; font-size:1em; }
+.colfooter ul li a i { font-size:0.5em; }
+.colfooter ul li a:hover { text-decoration:underline; }
+.colfooter .titleFooter   { 
+	font-family:monospace; 
+	font-size:1.4em; 
+	color:#000000; 
+	padding-bottom: 0.5em; 
+	margin-bottom:0.5em; 
+	border-bottom:5px #000000 solid;
+}
+.colfooter p  { font-family:'open_sanslight'; color:#000000; font-size:1em; height:25px; } 
 
 
 
