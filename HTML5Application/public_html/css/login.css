@@ -1,5 +1,15 @@
-login{
+/* 
+    Created on : 21/11/2022, 18:35:07
+    Author     : heloysa
+*/
+
+
+card-header{
      padding: 0;
+        
+   
+    text-align:center;
+    margin: 4px 0;
 }
 body {
     padding: 0;
@@ -108,16 +118,17 @@ body {
     color: #fff;
     color: black;
     font-size: 13px;
+    
 }
 .cadastrar_{
     width: 100%;
     align-items: center;
-    height: 20px;
+    height: 25px;
     background-color: #DAA520;/*BOTAO*/
     border:none;
-    font-size: 15px;
-    color: black;
-    display: flex;
+    font-size: 17px;
+   
+    text-align:center;
     margin: 4px 0;
 }
 
