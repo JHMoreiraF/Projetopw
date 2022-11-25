@@ -1,0 +1,29 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : Nov 24, 2022, 5:21:10 PM
+    Author     : Fellipe
+*/
+
+body {
+    background-color:#000 !important;
+    color:#b58500 !important;
+    font-family:monospace !important;
+    margin-left:auto !important;
+    margin-right:auto !important;
+    width: 810px !important;  
+}
+
+.produto img:hover{
+    cursor: pointer;
+}
+
+.produto:hover{
+    border: 1px solid #000;
+}
+
+
+
+
